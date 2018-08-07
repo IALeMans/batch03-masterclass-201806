@@ -3,5 +3,5 @@
 
 TP : unsupervised learning, books cover clustering
 
-- [support de la masterclass](https://github.com/IALeMans/batch03-masterclass-201806/blob/master/IALeMans%20Batch03%20MasterClass.pdf)
+- [masterclass slides (FR)](https://github.com/IALeMans/batch03-masterclass-201806/blob/master/IALeMans%20Batch03%20MasterClass.pdf)
 - [notebooks](https://github.com/IALeMans/batch03-masterclass-201806/tree/master/datacodes)
